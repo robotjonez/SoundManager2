@@ -588,7 +588,6 @@ if (window.is_home) {
 
 }
 
-// side note: If it's not december but you want to smash things, try #christmas=1 in the homepage URL.
 
 // --------- /home JS ------------
 
