@@ -284,26 +284,7 @@ function getLiveData() {
 }
 
 function doAltShortcuts() {
-/*
-  var o = _id('shortcuts-list');
-  if (!o) {
-    return false;
-  }
-  var oParents = [];
-  var oLIs = o.getElementsByTagName('li');
-  var isIgnore = null;
-  var offset = 0;
-  for (var i=0; i<oLIs.length; i++) {
-    isIgnore = utils.hasClass(oLIs[i],'ignore');
-    if (isIgnore) {
-      offset = 0;
-    }
-    offset++;
-    if ((offset)%2 === 0 && !isIgnore) {
-      utils.addClass(oLIs[i],'alt');
-    }
-  }
-*/
+
 }
 
 function fixLinks() {
